@@ -114,4 +114,5 @@ class Plan extends \yii\db\ActiveRecord
     {
         return $this->hasMany(Shedule::className(), ['plan_idplan' => 'idplan']);
     }
+
 }
