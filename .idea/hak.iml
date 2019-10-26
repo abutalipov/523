@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/behat/gherkin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/bootstrap" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/inputmask" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/jquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/punycode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/yii2-pjax" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/cebe/markdown" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/base" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/specify" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/stub" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/codeception/verify" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ezyang/htmlpurifier" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
